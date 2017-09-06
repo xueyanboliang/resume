@@ -15,6 +15,9 @@
 ## 安装运行
 > clone 项目到本地，用浏览器打开index.html即可运行
 
+## 项目在线演示 
+
+<a href="https://xueyanboliang.github.io" target=_blank>在线演示戳我</a>
 
 ## 项目截图
 ![简历截图1](https://github.com/xueyanboliang/my-pics/blob/master/resume/resume_1.gif?raw=true)
